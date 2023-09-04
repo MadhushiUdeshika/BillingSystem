@@ -92,7 +92,7 @@ public class Interface extends javax.swing.JFrame {
         });
 
         jComboBox1.setFont(new java.awt.Font("Cambria", 1, 18)); // NOI18N
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Book", "Pen", "Pencil", "Eraser", "Ruler", "Sharpner", "Highlighter", "Correction Pen" }));
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Book", "Pen", "Pencil", "Eraser", "Ruler", "Sharpner", "Highlighter", "Correction Pen", "File" }));
 
         jTable1.setFont(new java.awt.Font("Comic Sans MS", 1, 12)); // NOI18N
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
